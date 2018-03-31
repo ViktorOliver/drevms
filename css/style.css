@@ -1,0 +1,70 @@
+body{
+    padding-top: 75px;
+    height: 5000px;
+     /* background-color: #343A40  */
+}
+
+.box-shadow{
+    box-shadow: 0px 2px 4px 0 rgba(0, 0,0, .05),
+                0px 4px 8px 0 rgba(0, 0,0,.05);
+}
+#home-quote{
+    background: url('../img/bg-quote.jpg') center center;
+    background-size: cover;
+}
+
+@media (max-width:991px){
+
+    body {
+        padding-top: 0;
+    }
+
+    .fixed-top{
+        position: relative;
+    }
+}
+@media (max-width: 991px) {
+    .mtop{
+        margin-top:20px;
+    }
+}
+.myp2{
+    background-color: #440088;
+ }
+
+.myp{
+   background-color: #9833F8;
+}
+.myb{
+    background-color: #0E1013;
+ }
+
+ .myd{
+    background-color: #282A2D;
+ }
+ .fake{
+    height: 300px;
+ }
+
+ .myd{
+    font-size: 28px;
+ }
+
+ .myk{
+    font-size: 1rem;
+ }
+
+
+ .tem{
+   height: 100px;
+   widows: 100px;
+ }
+ 
+ .tem2{
+    height: 100px;
+    widows: 100px;
+  }
+  
+ .rrei{
+     height: 100px;
+ }
